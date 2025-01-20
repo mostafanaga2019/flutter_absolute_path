@@ -39,9 +39,7 @@ android {
     if (project.android.hasProperty("namespace")) {
         namespace 'com.kasem.flutter_absolute_path'
     }
-    kotlinOptions {
-        jvmTarget = "1.8"
-    }
+   
    
 }
 
