@@ -40,7 +40,7 @@ android {
         namespace 'com.kasem.flutter_absolute_path'
     }
     kotlinOptions {
-        jvmTarget = "17"
+        jvmTarget = "1.8"
     }
    
 }
